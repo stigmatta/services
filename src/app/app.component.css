@@ -1,0 +1,47 @@
+.products-div
+{
+    margin-top: 2em;
+    width: 100%;
+}
+
+button{
+    display: block;
+    margin-top: 1em;
+    border-radius: 1em;
+    padding: 1em;
+    font-size: 1.2m;
+    background-color: rgb(121, 121, 179);
+    color: white;
+    font-weight: bolder;
+}
+
+ul
+{
+    background-color: brown;
+    color:wheat;
+    width: fit-content;
+    padding-inline:5em;
+    padding-block: 3em;
+    margin: 0 auto;
+}
+li
+{
+    font-size: 1.3em;
+}
+
+.digits-div{
+    margin-top: 3em;
+    margin-inline: auto;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: fit-content;
+}
+
+.one-block
+{
+    background-color: rgb(150, 136, 61);
+    padding-inline: 2em;
+    font-size: 1.2em;
+    color:white;
+}
